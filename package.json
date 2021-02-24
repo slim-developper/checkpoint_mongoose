@@ -1,0 +1,17 @@
+{
+  "name": "MongooseBD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test \" && exit "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.9.17",
+    "validator": "^13.0.0"
+  }
+}
